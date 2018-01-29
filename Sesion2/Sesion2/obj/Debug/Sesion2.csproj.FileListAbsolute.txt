@@ -1,0 +1,40 @@
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\bin\Debug\Sesion2.exe
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\bin\Debug\Sesion2.pdb
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\ResolveAssemblyReference.cache
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.frm_controles.resources
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.Properties.Resources.resources
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programación Básica\Progra 4\Progra 4\Semana 2\Sesion2\Sesion2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Material Programacion 3\Todas las Sesiones\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+D:\Material Programacion 3\Todas las Sesiones\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+D:\Material Programacion 3\Todas las Sesiones\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+D:\Material Programacion 3\Todas las Sesiones\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.csprojResolveAssemblyReference.cache
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.frm_controles.resources
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.Properties.Resources.resources
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.csproj.GenerateResource.Cache
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\bin\Debug\Sesion2.exe
+D:\Material de la Universidad\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\bin\Debug\Sesion2.pdb
+D:\Material de la Universidad\U Fidélitas\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+D:\Material de la Universidad\U Fidélitas\Material Programación 4 Fidélitas\Todas las Sesiones Programación 4\Semana 2\Estudiantes\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+C:\Users\Laboratorios\Desktop\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+C:\Users\Laboratorios\Desktop\Semana 2\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\bin\Debug\Sesion2.exe
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\bin\Debug\Sesion2.pdb
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.frm_controles.resources
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.Properties.Resources.resources
+C:\Users\Laboratorios\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.csproj.GenerateResource.Cache
+C:\Users\Emilio\Desktop\Semana2\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+C:\Users\Emilio\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+C:\Users\Emilio\Desktop\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.pdb
+E:\Universidad\Progra 4\Semana2\Semana2\Sesion2\Sesion2\bin\Debug\Sesion2.exe.config
+E:\Universidad\Progra 4\Semana2\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.exe
+E:\Universidad\Progra 4\Semana2\Semana2\Sesion2\Sesion2\obj\Debug\Sesion2.pdb

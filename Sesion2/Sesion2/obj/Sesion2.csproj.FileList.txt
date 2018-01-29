@@ -1,0 +1,8 @@
+bin\Debug\Sesion2.exe
+bin\Debug\Sesion2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sesion2.frm_controles.resources
+obj\Debug\Sesion2.Properties.Resources.resources
+obj\Debug\Sesion2.csproj.GenerateResource.Cache
+obj\Debug\Sesion2.exe
+obj\Debug\Sesion2.pdb
